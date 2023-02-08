@@ -38,10 +38,34 @@ A Virtual Private Network (VPN) adds security and anonymity to users when they c
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TJTJ6gO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+  
+<p>
+<img src="https://i.imgur.com/uqIKZrV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+  
+  
+<p>
+<img src="https://i.imgur.com/8WMR7gf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
+  
+<p>
+<img src="https://i.imgur.com/Cj2nyVF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+<p>
+<img src="https://i.imgur.com/A9awCL4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
 - First, go to your orginal broswer and create Proton VPN free version account by clicking [here](https://account.protonvpn.com/signup?plan=free&language=en)
 - Login into your remote desktop 
 - Next, go to [here](https://whatismyipaddress.com/) to copy the different IP adress and area on put it in the notepad with your orginal one.

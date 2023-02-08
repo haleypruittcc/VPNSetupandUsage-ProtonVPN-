@@ -21,7 +21,7 @@ A Virtual Private Network (VPN) adds security and anonymity to users when they c
 <h2>Step 1: Create Virtual Machines</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/q0LzbXM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
